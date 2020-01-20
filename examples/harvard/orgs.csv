@@ -1,1 +1,41 @@
-
+id	name	hasparent	keywords
+african_and_african_american_studies	African and African American Studies	TRUE	
+antropology	Anthropology	TRUE	
+applied_mathematics	Applied Mathematics	TRUE	
+applied_physics	Applied Physics	TRUE	
+art_film_and_visual_studies	Art, Film, and Visual Studies	TRUE	
+astronomy	Astronomy	TRUE	
+bioengineering	Bioengineering	TRUE	
+celtic_languages_and_literatures	Celtic Languages and Literatures	TRUE	
+chemsitry_and_chemical_biology	Chemistry and Chemical Biology	TRUE	
+computer_science	Computer Science	TRUE	
+the_classis	The Classics	TRUE	
+comparative_literature	Comparative Literature	TRUE	
+earth_and_planetary_sciences	Earth and Planetary Sciences	TRUE	
+east_asian_languages_and_civilizations	East Asian Languages and Civilizations	TRUE	
+economics	Economics	TRUE	
+electrical_engineering	Electrical Engineering	TRUE	
+english	English	TRUE	
+environmental_science_&_engineering	Environmental Science & Engineering	TRUE	
+germanic_languages_and_literatures	Germanic Languages and Literatures	TRUE	
+government	Government		TRUE	
+history	History	TRUE	
+history_of_art_and_architecture	History of Art and Architecture	TRUE	
+history_of_science	History of Science	TRUE	
+human_evolutionary_biology	Human Evolutionary Biology	TRUE	
+linguistics	Linguistics	TRUE	
+materials_science_&_mechanical_engineering	aterials Science & Mechanical Engineering	TRUE	
+mathematics	Mathematics	TRUE	
+molecular_and_cellular_biology	Molecular and Cellular Biology	TRUE	
+music	Music	TRUE	
+near_eastern_languages_and_civilizations	Near Eastern Languages and Civilizations
+organismic_and_evolutionary_biology	Organismic and Evolutionary Biology	TRUE	
+philosophy	Philosophy	TRUE	
+physics	Physics	TRUE	
+psychology	Psychology	TRUE	
+romance_languages_and_literatures	Romance Languages and Literatures	TRUE	
+slavic_languages_and_literatures	Slavic Languages and Literatures	TRUE	
+sociology	Sociology	TRUE	
+south_asian_studies	South Asian Studies	TRUE	
+statistics	Statistics	TRUE	
+stem_cell_and_regenerative_biology	Stem Cell and Regenerative Biology	TRUE	
